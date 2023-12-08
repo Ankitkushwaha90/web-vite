@@ -48,11 +48,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        Hello, I am Ankit kushwaha,  second-year BTech student at Nitra Technical Campus, Ghaziabad, Uttar Pradesh, India. Currently pursuing my passion for Coding. Beyond academics, I'm deeply engaged in building and generating tools for ethical hacking. Exploring the realms of cybersecurity, I aim to contribute to creating secure digital environments. The challenge of developing tools that enhance security fuels my curiosity and creativity.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
