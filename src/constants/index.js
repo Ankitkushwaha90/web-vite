@@ -200,7 +200,7 @@ const projects = [
   {
     name: "3D Web Application",
     description:
-      " Dive into a cutting-edge 3D web experience seamlessly crafted with Tailwind CSS, ReactJS, Three.js, Framer Motion, Maath, and React Vertical Timeline Component. Elevate your online journey with stunning visuals, dynamic interactions, and a captivating timeline narrative.",
+      " Dive into a cutting-edge 3D web experience seamlessly crafted with Tailwind CSS, ReactJS, Three.js, Framer Motion, Maath, and React Vertical Timeline Component.",
     tags: [
       {
         name: "react",
