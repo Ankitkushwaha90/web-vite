@@ -198,9 +198,9 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "3D Web Application",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      " Dive into a cutting-edge 3D web experience seamlessly crafted with Tailwind CSS, ReactJS, Three.js, Framer Motion, Maath, and React Vertical Timeline Component. Elevate your online journey with stunning visuals, dynamic interactions, and a captivating timeline narrative.",
     tags: [
       {
         name: "react",
@@ -216,10 +216,10 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Ankitkushwaha90/web-vite",
   },
   {
-    name: "Job IT",
+    name: "Movix",
     description:
       "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
     tags: [
@@ -237,10 +237,10 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Ankitkushwaha90/movix",
   },
   {
-    name: "Trip Guide",
+    name: "Social Media App",
     description:
       "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
@@ -258,7 +258,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Ankitkushwaha90/Anonymous_Hat_Hacker",
   },
 ];
 
