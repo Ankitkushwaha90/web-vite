@@ -6,6 +6,7 @@ import { github } from "../assets";
 import { SectionWrapper } from "../hoc";
 import { projects } from "../constants";
 import { fadeIn, textVariant } from "../utils/motion";
+import {Link} from 'Link/next';
 
 const ProjectCard = ({
   index,
@@ -25,7 +26,7 @@ const ProjectCard = ({
         }}
         className='bg-tertiary p-5 rounded-2xl sm:w-[360px] w-full'
       >
-        <div className='relative w-full h-[230px]'>
+        <Link href="https://anonymous-hat-hacker.vercel.app/" className='relative w-full h-[230px]'>
           <img
             src={image}
             alt='project_image'
@@ -44,7 +45,7 @@ const ProjectCard = ({
               />
             </div>
           </div>
-        </div>
+        </Link>
 
         <div className='mt-5'>
           <h3 className='text-white font-bold text-[24px]'>{name}</h3>
